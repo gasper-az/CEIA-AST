@@ -1,0 +1,10 @@
+{
+  "p": 1,
+  "d": 1,
+  "q": 1,
+  "P": 1,
+  "D": 1,
+  "Q": 1,
+  "s": 24,
+  "nota": "Propuesta inicial basada en ACF/PACF; confirmar en NB3 con auto_arima"
+}
